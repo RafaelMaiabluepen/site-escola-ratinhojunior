@@ -1,0 +1,72 @@
+ header {
+    background-image: linear-gradient(#000000, #ffffff);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    
+}
+.cabeçalho{
+      width: 15%;
+      }
+      *{
+        margin: 0;
+        padding: 0;
+    }
+    .escola{
+        color: rgb(7, 7, 7);
+        width: 100%;
+        display: flex;
+        background-color: #ffffff;
+    }
+.santos-fundo{
+   color: #ffffff;
+    width: 30%;
+    justify-content: center;
+
+}
+.escola-conteudo{
+    color: #000000;
+    width: 80%;
+    justify-content: center;
+    display: flex;
+}
+body{
+    background-image: linear-gradient(#ffffff, #000000);
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.estudante-div{
+    text-align: center;
+    
+    padding: 16px 0;
+}
+.estudante-todos{
+    display: flex;
+    grid-template-columns: 10% 20% 30% 40% 50%;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+    display: flex; 
+}
+.estudante-imagem{
+    width: 40%;
+}
+.idolos{
+    display: flex;
+    width: 80%;
+}
+.proximosjogos{
+    width: 50%;
+}
+.caze{
+    width: 40%;
+    display: flex;
+}
+.estudante{
+    background-image: linear-gradient(#ffffff, #ffffff);
+}
